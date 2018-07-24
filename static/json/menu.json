@@ -1,0 +1,28 @@
+{
+  "navs": {
+    "recruit": "志工招募",
+    "donate": "捐贈訊息",
+    "class": "偏鄉教室",
+    "contact": "聯絡我們",
+    "onlinedonate": "線上捐款"
+  },
+  "recruit": {
+    "recruit-apply": "志工申請/種類",
+    "recruit-detail": "工作內容/地點",
+    "recruit-must": "志工須知",
+    "recruit-life": "食衣住行",
+    "recruit-before": "理性認知"
+  },
+  "class": {
+    "siemreap-w": "暹粒以西",
+    "siemreap-e": "暹粒以東",
+    "kampongthom": "磅通省",
+    "svayrieng": "柴真省",
+    "battambang": "馬德望"
+  },
+  "siemreap-w": ["Tasne", "KR", "SPS", "DS", "PT"],
+  "siemreap-e": ["BK", "DR", "KS", "TY", "Thnal", "Kol", "Kdei"],
+  "kampongthom": ["HSB", "KPT", "KPS"],
+  "svayrieng": ["Bavet"],
+  "battambang": ["BB1", "APS"]
+}
