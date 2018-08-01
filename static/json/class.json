@@ -1,0 +1,146 @@
+{
+    "DR": {
+        "name": "Danroun",
+        "date": "2013.03",
+        "position": "東向65公里處一座廟宇內",
+        "background": "2012年CTEP在偏鄉尋找場地以設立教室，當時很多廟宇沒有回應，唯DR廟宇住持積極開明，將原有和尚與鄰近村民上課的教室開放給CTEP，成為CTEP第一個偏鄉教室。DR廟連結數個村落且學生人數眾多，就學率與結業率相當穩定。",
+        "teachers": [
+            {
+                "name": "Souv Sim",
+                "des": "Sim的父母親種田維生，不希望Sim長大後跟他們一樣辛苦。父母親期待Sim當老師而不要做農務，但公立學校老師名額有限，為了取得教學經驗而去做志工老師並教學四年，2014年進入CTEP以英文教學為多。在父母親鼓勵下進入大學就讀，預計2019年畢業，因工作認真現升任CTEP偏鄉教育助理經理。"
+            },
+            {
+                "name": "Rin Sopheak",
+                "des": "當和尚五年且受過電腦技巧訓練，還俗回鄉工作時看到附近很多孩子沒錢上學就免費為他們上課，六個月後因朋友介紹而加入CTEP，現在他在DR and TY兩偏鄉教室教電腦。雖然英語不理想，但電腦操作及教學都受到柬籍教師督導肯定，且能與其他老師相互交流。<br>Sopheak 有藝術才華，唱歌、寫詩都在行。他還是游泳好手可長泳一小時呢。"
+            },
+            {
+                "name": "Lory Thy",
+                "des": "還在讀大學主修英文，預計2019年畢業。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "Kol": {
+        "name": "Kol",
+        "date": "2014.10",
+        "position": "暹粒市東向48公里Kol小學內",
+        "background": "KOL偏鄉教室原為澎湖牙醫師公會非營利組織CHSO成立的偏鄉口腔健康醫療與宣導點，但柬政府不同意類似醫療行為，故於2014年10月委託CTEP經營與管理，所有經營費用則由阮醫師贊助支付。<br>兩位教師都是KOL小學資深教師，教學經驗豐富，利用沒課的半天協助CTEP教學，學生出席率高且穩定。",
+        "teachers": [
+            {
+                "name": "Huy Baunham ",
+                "des": "大學會計相關科系畢業，有會計師資格。對學韓語有興趣，已學一年且通過檢定，在韓國工作近三年。目前負責電腦課程教學。"
+            },
+            {
+                "name": "Kang Yam ",
+                "des": "大學畢業，在Kol小學有30年教學經驗，目前負責英文課程教學。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "SPS": {
+        "name": "Steung Preah Srok ",
+        "date": "2013.09",
+        "position": "暹粒市西向 26 公里",
+        "background": "SPS國小校舍為一美籍柬人捐贈，而該校校長十分支持CTEP，邀請CTEP設立英文與電腦教室，但當時教室為開放空間沒有牆壁，下雨天教學品質深受影響。2015年，實踐大學設計學院陳國洲老師帶領學生興建兩間草棚教室，大幅改善教學環境。SPS學生人數仍持續增加中，目前是人數最多的偏鄉教室。",
+        "teachers": [
+            {
+                "name": "Ke Bunthong ",
+                "des": "為學習英文與電腦而參加NGO一年學程，雖遭受村民取笑仍堅持不移。Thong說「在NGO一年課程我都很認真學習，也才能在CTEP當老師。我很感激嘲笑我的人，有他們的推動我才能完成課程。」 目前Thong仍持續在ACE (Australian Center for Education )進修英文。"
+            },
+            {
+                "name": "Am Sreyrath ",
+                "des": "參加NGO一年學程學電腦與英文，當時很多人叫她進廚房不要去讀書，他們認為那是浪費時間。Sereyrath 說「現在我有好工作而他們沒有。」目前Sereyrath 持續在  ACE (Australian Center for Education )進修英文。"
+            },
+            {
+                "name": "Chhann Saven ",
+                "des": "在KR偏鄉教室學習英語與電腦一年，因老師推薦轉任為CTEP老師。教學初期因沒信心也經驗經常向其他老師請教學習。<br>Saven還有副好歌喉。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "Tasne": {
+        "name": "Tasne",
+        "date": "2013.02",
+        "position": "暹粒市西向22公里臨近吳哥保護區west Baray 湖",
+        "background": "Tasne周圍都是稻田與泥土路且路面凹凸不平。2013年2月CTEP開辦英文與電腦課程，2014年4月將課程移轉給當地旌旗教會持續經營。2015年，澎湖牙醫師公會阮醫師承接電腦課程，並將電腦教室轉至當地公立Tasne小學以優化學習環境，英文課程仍由旌旗教會負責。2016年10月，阮醫師將所承接課程歸還給CTEP經營與管理，所有經營費用則由阮醫師贊助支付。<br>2017年12月原SPS偏鄉教室Sokhom調老師來開設英文班，以因應很多孩子學英語的需求。",
+        "teachers": [
+            {
+                "name": "Roeun Ty ",
+                "des": "Ty原從事雕刻業，後接受友人建議來CETP接受電腦訓練，因學習良好而轉任老師。Ty謙虛的說剛開始很害怕，因所學有限且有很多不懂不孰悉，但從教師回訓課程學到很多，也經常請教其他老師，問越多電腦操作就越孰悉，Ty 現在比較有信心啦。"
+            },
+            {
+                "name": "Chum Sokhom ",
+                "des": "2013年高中畢業，隨後在飯店兼職和開TUKTUK車賺取大學學費。因經濟問題只在大學讀一年。後來完成普級英語訓練並在CTEP當實習老師，現為正職老師教授基礎英語。Sokhom採互動式教學，靈活有變化深受學生喜愛。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "Thnal": {
+        "name": "Thnal",
+        "date": "2013.09",
+        "position": "暹粒市東向75公里處",
+        "background": "Thnal偏鄉為世界展望會柬埔寨分會(WVC, World Vision Cambodia)所輔助的鄉村。當地雖然有三間國小與一間中學，但多數人家境貧困，且須分攤農務而無法就學或繼續升學。WVC委託CTEP開設英文與電腦班，希望當地學生在農忙閒暇時有機會學習。",
+        "teachers": [
+            {
+                "name": "Menghok ",
+                "des": "大學畢業，負責電腦與英文課程教學。Menghok個性積極，大學主修資訊科技但對農學也有專攻，平日教學之餘也忙於種植稻米與養殖雞隻。"
+            },
+            {
+                "name": "Hut Ath ",
+                "des": "在CTEP接受電腦與英文訓練課程後轉任老師，以英文教學為多。教學初期自覺所學不足而甚為緊張害怕。Ath個性沉默但堅強，為增進學識而進大學就讀，預計2019年畢業。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "KR": {
+        "name": "Keo Pour ",
+        "date": "2013.09",
+        "position": "暹粒市西向19公里處",
+        "background": "2013年以立國際服務機構帶領實踐大學志工團興建一草棚教室，自此開啟了當地的CTEP教育計畫。草棚教室在一週內完工，由學生10 人加上很多村民一起合作完成。初期有兩位老師且是兄弟檔合作開設英語與電腦課，弟弟Narith表現優異於2016年轉到CTEP中心。",
+        "teachers": [
+            {
+                "name": "Dara Chanthida ",
+                "des": "在Global Training School 習得電腦技巧，電腦技術學識良好，也受過英文教學訓練，目前教學以電腦課程為多。個性嚴肅但課堂教學認真，還須負責所有行政事務。"
+            }
+        ],
+        "english": true,
+        "computer": true
+    },
+    "HSB": {
+        "name": "Hung Sen Balang ",
+        "date": "2015.07",
+        "position": "位於磅通省距離暹粒市170公里",
+        "background": "HSB偏鄉教室設在HSB中學內。在此大型學校開班目的是要爭取柬埔寨台商的支持，希望與企業建教合作，讓青年習得更多技能投入職場。HSB村落人口數約7500。",
+        "teachers": [
+            {
+                "name": "Heng Hieang ",
+                "des": "習過電腦專業技巧，對電腦硬體故障有修理經驗，也有電腦店工作經驗，在泰國工作4個月後輾轉到CTEP教電腦。他說我喜歡這個工作。"
+            }
+        ],
+        "english": false,
+        "computer": true
+    },
+    "BK": {
+        "name": "Bakong ",
+        "date": "2013.03",
+        "position": "暹粒市向東13公里處 Samart School校內",
+        "background": "BK偏鄉教室距盛名的Bakong temple不遠。2012年，一當地法師運用當地儲米倉庫隔間設立Bakong Learning Center，讓歐美澳等國際志工與背包客教授英文課程；2013年ECO (Samart School Education for Cambodia Organization) 募資修繕教室與設立孩童遊樂場，並將其命名為Samart School。2013年3月，CTEP利用場地開始電腦課程。",
+        "teachers": [
+            {
+                "name": "Pres Aok ",
+                "des": "在私立學校完成電腦與英文課程學程，2013年就投入CTEP偏鄉教育，是年資最長的老師。CTEP開課早期學生人數不足和教師人手不足，Aok為了村內教育仍然堅持教學。他細心且負責，課堂管理有道也負責打理Samart school，大小事務。Aok 對木工手藝有經驗，曾開過店。"
+            },
+            {
+                "name": "Lit Ly ",
+                "des": "LY本在船運公司搬運貨物，靠勞動力維持家計。經Aok引薦來CTEP接受電腦課程訓練，因表現良好而推被薦為CTEP老師。Ly心思細膩處處為學生著想，也很珍惜在CTEP的學習機會，每次老師回訓表現非常認真，是位上進的好老師。"
+            }
+        ],
+        "english": false,
+        "computer": true
+    }
+}

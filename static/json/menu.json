@@ -20,9 +20,11 @@
     "svayrieng": "柴真省",
     "battambang": "馬德望"
   },
-  "siemreap-w": ["Tasne", "KR", "SPS", "DS", "PT"],
-  "siemreap-e": ["BK", "DR", "KS", "TY", "Thnal", "Kol", "Kdei"],
-  "kampongthom": ["HSB", "KPT", "KPS"],
-  "svayrieng": ["Bavet"],
-  "battambang": ["BB1", "APS"]
+  "subclass": {
+    "siemreap-w": ["Tasne", "KR", "SPS", "DS", "PT"],
+    "siemreap-e": ["BK", "DR", "KS", "TY", "Thnal", "Kol", "Kdei"],
+    "kampongthom": ["HSB", "KPT", "KPS"],
+    "svayrieng": ["Bavet"],
+    "battambang": ["BB1", "APS"]
+  }
 }
