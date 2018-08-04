@@ -17,14 +17,6 @@
     "siemreap-w": "暹粒以西",
     "siemreap-e": "暹粒以東",
     "kampongthom": "磅通省",
-    "svayrieng": "柴真省",
     "battambang": "馬德望"
-  },
-  "subclass": {
-    "siemreap-w": ["Tasne", "KR", "SPS", "DS", "PT"],
-    "siemreap-e": ["BK", "DR", "KS", "TY", "Thnal", "Kol", "Kdei"],
-    "kampongthom": ["HSB", "KPT", "KPS"],
-    "svayrieng": ["Bavet"],
-    "battambang": ["BB1", "APS"]
   }
 }
