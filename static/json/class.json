@@ -1,6 +1,7 @@
 [
     {
       "name":"Danroun",
+      "abbr": "DR",
       "area":"siemreap-e",
       "date":"2013.03",
       "position":"東向65公里處一座廟宇內",
@@ -26,6 +27,7 @@
     },
     {
       "name":"Kol",
+      "abbr": "Kol",
       "area":"siemreap-e",
       "date":"2014.10",
       "position":"暹粒市東向48公里Kol小學內",
@@ -47,6 +49,7 @@
     },
     {
       "name":"Steung Preah Srok",
+      "abbr": "SPS",
       "area":"siemreap-w",
       "date":"2013.09",
       "position":"暹粒市西向 26 公里",
@@ -72,6 +75,7 @@
     },
     {
       "name":"Tasne",
+      "abbr": "Tasne",
       "area":"siemreap-w",
       "date":"2013.02",
       "position":"暹粒市西向22公里臨近吳哥保護區west Baray 湖",
@@ -93,6 +97,7 @@
     },
     {
       "name":"Thnal",
+      "abbr": "Thnal",
       "area":"siemreap-e",
       "date":"2013.09",
       "position":"暹粒市東向75公里處",
@@ -114,6 +119,7 @@
     },
     {
       "name":"Keo Pour",
+      "abbr": "KR",
       "area":"siemreap-w",
       "date":"2013.09",
       "position":"暹粒市西向19公里處",
@@ -131,6 +137,7 @@
     },
     {
       "name":"Hung Sen Balang",
+      "abbr": "HSB",
       "area":"kampongthom",
       "date":"2015.07",
       "position":"位於磅通省距離暹粒市170公里",
@@ -147,6 +154,7 @@
     },
     {
       "name":"Bakong",
+      "abbr": "BAKONG",
       "area":"siemreap-e",
       "date":"2013.03",
       "position":"暹粒市向東13公里處 Samart School校內",
@@ -167,6 +175,7 @@
     },
     {
       "name":"Battambang",
+      "abbr": "BB1",
       "area":"battambang",
       "date":"2014.12",
       "position":"於馬德望省距離暹粒市185公里一天主教教堂內",
@@ -183,6 +192,7 @@
     },
     {
       "name":"Kampong Svay",
+      "abbr": "KPS",
       "area":"kampongthom",
       "date":"2016.05",
       "position":"距離暹粒市162公里，磅通省Tourl小學內",
@@ -203,6 +213,7 @@
     },
     {
       "name":"Kampong Thom",
+      "abbr": "KPT",
       "area":"kampongthom",
       "date":"2013.08",
       "position":"暹粒市西向19公里處",
@@ -219,6 +230,7 @@
     },
     {
       "name":"Ta Yaek",
+      "abbr": "TY",
       "area":"siemreap-e",
       "date":"2013.08",
       "position":"暹粒市東向43公里處",
@@ -241,6 +253,7 @@
     },
     {
       "name":"Kean Sanke",
+      "abbr": "KS",
       "area":"siemreap-e",
       "date":"2017.04",
       "position":"暹粒市東向37公里處Kien Sanke中學內",
@@ -262,6 +275,7 @@
     },
     {
       "name":"Prasat Thnong",
+      "abbr": "PT",
       "area":"siemreap-w",
       "date":"2016.08",
       "position":"暹粒市距離暹粒市44公里",
@@ -279,6 +293,7 @@
     },
     {
       "name":"Doun Sva",
+      "abbr": "DS",
       "area":"siemreap-w",
       "date":"2015.08",
       "position":"距離暹粒市53公里Doun Sva小學內",
@@ -300,6 +315,7 @@
     },
     {
       "name":"Provincial Orphanage",
+      "abbr": "PO",
       "area":"siemreap-w",
       "date":"2014.07",
       "position":"暹粒市西向10公里處暹粒省政府公營孤兒院內",
@@ -321,6 +337,7 @@
     },
     {
       "name":"Cambodia-Taiwan Education Center",
+      "abbr": "CTEP",
       "area":"siemreap-w",
       "date":"2011.06",
       "position":"暹粒市市區",
